@@ -31,6 +31,7 @@ console.log(divisibleCurry(2)(8)); //0
 
 //Función currificada con parámetro mod = 2
 console.log(mod2(8));
+```
 
 Referencias:
 - https://www.nypl.org/blog/2016/12/06/currying-functions
