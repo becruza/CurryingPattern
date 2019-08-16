@@ -33,7 +33,7 @@ console.log(divisibleCurry(2)(8)); //0
 console.log(mod2(8));
 ```
 
-Referencias:
+##Referencias:
 - https://www.nypl.org/blog/2016/12/06/currying-functions
 - https://yeisondaza.com/currying-en-javascript-funciones-con-superpoderes
 - https://wsvincent.com/javascript-currying/
